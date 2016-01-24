@@ -13,9 +13,9 @@ Assessment in this course follows a [standards-based model](http://www.wired.com
 
 Each of the six categories contains between 6 and 20 specific objectives that students should aim to master. For example:  
 
-<blockquote>*Create an analytical sketch of a passage containing functional progressions, any type of dominant function chord, dominant preparation chords, and non-chord tones.*</blockquote> 
+<blockquote><i>Create an analytical sketch of a passage containing functional progressions, any type of dominant function chord, dominant preparation chords, and non-chord tones.</i></blockquote> 
 
-At any point in the semester, for each objective, students will have a current mark of **N – not attempted**, **A – attempted**, **P – passed**, or **NP-failed**. Only the most recent attempts will count toward a student’s grade.  
+At any point in the semester, for each objective, students will have a current mark of **N – not attempted**, **A – attempted**, **P – passed**, or **NP-not passed**. Only the most recent attempts will count toward a student’s grade.  
 
 A student’s letter grade for each category is determined by the number of objectives passed. And final grades are a simple average of the six category grades.  
 
