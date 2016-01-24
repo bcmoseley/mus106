@@ -1,0 +1,14 @@
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+{% endif %}
+
+<img class="author-image" src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }}">
+<div class="article-info">
+	<span class="author-content">
+		<h3 class="author-name" >Posted by {% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}</h3>
+	</span>
+	<br>
+	<div class="article-date">
+			{% if page.modified %}Updated<time datetime="{{ page.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% else %}<time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% endif %}
+	</div>
+</div>

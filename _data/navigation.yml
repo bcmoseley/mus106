@@ -1,0 +1,18 @@
+# Site navigation links
+
+- title: Syllabus
+  url: /syllabus.html
+  excerpt:
+  image:
+
+- title: Archives
+  url: /archive.html
+
+- title: Unit Guides
+  url: /unit-guide.html
+
+- title: Resources
+  url: /resources.html 
+
+- title: Contact
+  url: /contact.html

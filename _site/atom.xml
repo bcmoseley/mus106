@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Harmony and Counterpoint</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2016-01-24T12:34:28-05:00</updated>
+  <id>/</id>
+  <author>
+    <name>Brian Moseley</name>
+    <uri>/</uri>
+    <email>moseleybc@gmail.com</email>
+  </author>
+
+  
+  <entry>
+    <title>Welcome Back!</title>
+    <link href="/blog/welcome-to-mus-105/"/>
+    <updated>2016-01-24T07:51:26-05:00</updated>
+    <id>/blog/welcome-to-mus-105</id>
+    <author>
+      <name>Brian Moseley</name>
+      <uri>/</uri>
+      <email>moseleybc@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Welcome to the second semester of Harmony and Counterpoint! I’m looking forward to working with you all again getting as we learn in more detail how great music works and how we can use that knowledge to shape our own creative activity as musicians.  &lt;/p&gt;
+
+&lt;p&gt;This term we will working towards the following goals:  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the &lt;em&gt;assimilation&lt;/em&gt; of concepts and techniques common to diatonic music. &lt;/li&gt;
+  &lt;li&gt;the &lt;em&gt;connection&lt;/em&gt; of the concepts to music in myriad styles—including “classical” instrumental and vocal music, and pop/rock music.&lt;/li&gt;
+  &lt;li&gt;the ability to &lt;em&gt;construct&lt;/em&gt; and &lt;em&gt;deconstruct&lt;/em&gt; phrases and small pieces.&lt;/li&gt;
+  &lt;li&gt;further developing &lt;em&gt;critical listening skills&lt;/em&gt; through dictation and transcription.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;increased fluency&lt;/em&gt; singing and playing music at the keyboard.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These goals are about you and your musical and intellectual growth. My goal is to place your work at the center of the class and to learn from you as well. To create an environment where we can try new things and better accomodate the diversity of personalities, I have designed the class so that you have many opportunities to try things without grade penalty. Ultimately, however, its our collective responsibility to make this a great class. I hope that you feel free to come to me with questions and concerns. &lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  
+</feed>
