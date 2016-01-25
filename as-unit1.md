@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Aural Skills - Unit 1: Protonotation, Basics of Pitch and Rhythm"
+title: "Aural Skills - Unit 1: Dominant, Subdominant, and Skips to 4 and 6"
 ---
 
 <a href="as-unit1.html" class="btn-info">Unit 1</a><a href="as-unit2.html" class="btn-info">Unit 2</a><a href="as-unit3.html" class="btn-info">Unit 3</a>

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Aural Skills - Unit 3: Major Keys, Neighbor Notes"
+title: "Aural Skills - Unit 3: Other Diatonic Triads"
 ---
 
 <a href="as-unit1.html" class="btn-info">Unit 1</a><a href="as-unit2.html" class="btn-info">Unit 2</a><a href="as-unit3.html" class="btn-info">Unit 3</a>

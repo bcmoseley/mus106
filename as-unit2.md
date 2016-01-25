@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Aural Skills - Unit 2: Notating Pitch and Rhythm"
+title: "Aural Skills - Unit 2: Harmonic Singing; Two-part, Bass-line, and Harmonic Dictation"
 ---
 
 <a href="as-unit1.html" class="btn-info">Unit 1</a><a href="as-unit2.html" class="btn-info">Unit 2</a><a href="as-unit3.html" class="btn-info">Unit 3</a>
