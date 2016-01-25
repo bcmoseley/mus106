@@ -24,6 +24,7 @@ Read all as “I can . . .”
 3. Dictate a melody highlighting **leaps to 4 and 6**, given three listening opportunities. (2x) 
 4. Dictate a melody highlighting the **subdominant** triad, given three listening opportunities. (2x) 
 5. Transcribe a melody for solo instrument or voice. 
+
 ### Keyboard Skills
 1. Play I–V(7)–I progressions in keyboard style in any major or minor key given a scale degree pattern (e.g., 3–2–1).
 2. Play I–V(7)–I progressions, using appropriate inversions of the tonic and dominant triads and given a bass line.	
