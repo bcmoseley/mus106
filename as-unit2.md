@@ -5,9 +5,9 @@ title: "Aural Skills - Unit 2: Notating Pitch and Rhythm"
 
 <a href="as-unit1.html" class="btn-info">Unit 1</a><a href="as-unit2.html" class="btn-info">Unit 2</a><a href="as-unit3.html" class="btn-info">Unit 3</a>
 
+**Last Day to Pass Objectives:** April 8
+
 Read all as “I can . . .”
-**Unit Ends:** October 27  
-**Last Day to Pass Objectives:** November 10
 
 ###Singing Skills
 1. Perform a prepared melody highlighting the **dominant seventh chord** while conducting or playing an accompaniment. (2x) 

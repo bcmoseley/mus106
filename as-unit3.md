@@ -5,6 +5,8 @@ title: "Aural Skills - Unit 3: Major Keys, Neighbor Notes"
 
 <a href="as-unit1.html" class="btn-info">Unit 1</a><a href="as-unit2.html" class="btn-info">Unit 2</a><a href="as-unit3.html" class="btn-info">Unit 3</a>
 
+**Last Day to Pass Objectives:** May 13
+
 Read all as “I can . . .”
 
 ###Singing Skills
