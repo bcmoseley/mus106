@@ -8,7 +8,10 @@
 
 #masthead {
 	padding: $gutter;
+	width: 100%;
 	z-index: 5;
+	border-bottom: 1px solid $light-gray;
+	background-color: #fff;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -24,8 +27,6 @@
 		@include span-columns(4);
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
-	background-color: #fff;
-	border-bottom: 1px solid $light-gray;
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
@@ -87,7 +88,6 @@
 /* Top menu navigation */
 
 .top-menu {
-	display: none;
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
