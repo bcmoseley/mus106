@@ -10,10 +10,12 @@
 	position: relative;
 	padding: 1.5em;
 	font-family: $alt-font;
+	margin-top: 2.4375rem;
 	@include font-size(14,39);
-	color: $white;
-	background-color: $notice-color;
+	color: $black;
+	background-color: $table-stripe-color;
 	border-radius: $border-radius;
+	border: 1px solid #ddd;
 	a {
 		color: $white;
 		border-bottom: 1px dotted $white;

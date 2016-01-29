@@ -7,7 +7,7 @@ title:
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
 	{% assign date = post.date %}
-  {% include post-detail.html %}
+	{% include post-detail.html %}
 </div>
 
 

@@ -10,6 +10,7 @@ image:
 ads: false
 date: 2016-01-24T8:51:26-04:00
 ---
+
 Welcome to the second semester of Harmony and Counterpoint! I'm looking forward to working with you all again getting as we learn in more detail how great music works and how we can use that knowledge to shape our own creative activity as musicians.  
 
 This term we will working towards the following goals:  
