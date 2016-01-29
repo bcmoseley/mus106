@@ -19,3 +19,5 @@ By the end of next week, we'll have a fundamentals quiz where you have to "write
 3. Chapter 9, p. 139, #7, a,b, and c. Use vi and at least one vi7.
 
 Remember, when writing ii-V or IV-V, the upper voices should move *down* or remain stationary. When writing vi-V, upper voices should move in *up.* There are a few exceptions. Do you remember what they are?
+
+**Update:** [Here's a copy](https://www.dropbox.com/s/igb4f4yotc0tk5n/9%20%28DP%20Harm%29%20WB%20scan.pdf?dl=0) of the Chapter 9 workbook for those of you that don't have a copy. Happy weekend!
