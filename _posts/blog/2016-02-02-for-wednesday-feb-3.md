@@ -12,7 +12,7 @@ image:
 date: 2016-02-02T10:15:25-05:00
 ---
 
-Sorry about missing class yesterday! <a href="http://www.sherv.net/"><img alt="Yellow School Bus" width=73 height=23 src="http://www.sherv.net/cm/emoticons/school/yellow-school-bus-smiley-emoticon.gif"></a>
+Sorry about missing class yesterday!
 
 Tomorrow, we'll have a short practice quiz to see how prepared you are for the first fundamental's assessment, which will happen on Friday or Monday. On that assessment, you'll have to write (in chorale or keyboard style) chord progressions that move from various DP chords to D chords. 
 
