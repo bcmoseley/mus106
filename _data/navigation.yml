@@ -1,18 +1,18 @@
 # Site navigation links
 
 - title: Syllabus
-  url: /syllabus.html
+  url: /syllabus
   excerpt:
   image:
 
 - title: Archives
-  url: /archive.html
+  url: /archive
 
 - title: Unit Guides
-  url: /unit-guide.html
+  url: /unit-guide
 
 - title: Assignment Submitter
   url: https://script.google.com/macros/s/AKfycbxENcuU8p2tIbFS_tspe2a-yYtu47V6DwNGbBV2YcjkkOlznbXa/exec	
 
 - title: Contact
-  url: /contact.html
+  url: /contact
