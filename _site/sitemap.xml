@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/blog/for-friday-february-5/</loc>
+    <loc>/mus106/blog/for-friday-february-5/</loc>
     <lastmod>2016-02-04T08:57:27-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/for-wednesday-feb-3/</loc>
+    <loc>/mus106/blog/for-wednesday-feb-3/</loc>
     <lastmod>2016-02-02T10:15:25-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/for-monday-february-1/</loc>
+    <loc>/mus106/blog/for-monday-february-1/</loc>
     <lastmod>2016-01-29T10:42:38-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/welcome-to-mus-105/</loc>
+    <loc>/mus106/blog/welcome-to-mus-105/</loc>
     <lastmod>2016-01-24T07:51:26-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/about.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/about.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/archive.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/archive.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/as-unit1.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/as-unit1.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/as-unit2.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/as-unit2.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/as-unit3.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/as-unit3.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/auralskills-unit-guide.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/auralskills-unit-guide.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/contact.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/contact.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/courses.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/courses.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/resources.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/resources.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/syllabus.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/syllabus.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/unit-guide.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/unit-guide.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/wt-unit1.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/wt-unit1.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/wt-unit2.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/wt-unit2.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/wt-unit3.html</loc>
-    <lastmod>2016-02-04T09:07:46-05:00</lastmod>
+    <loc>/mus106/wt-unit3.html</loc>
+    <lastmod>2016-02-04T09:23:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

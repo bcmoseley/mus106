@@ -1,42 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+  
+
   <title>Harmony and Counterpoint</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-    <icon>/apple-touch-icon-precomposed.png</icon>
+    <icon>/mus106/apple-touch-icon-precomposed.png</icon>
   <subtitle></subtitle>
-  <link href="/atom.xml" rel="self"/>
-  <link href="/" rel="alternate" type="text/html"/>
-  <updated>2016-02-04T09:07:46-05:00</updated>
-  <id>/</id>
+  <link href="/mus106/atom.xml" rel="self"/>
+  <link href="/mus106/" rel="alternate" type="text/html"/>
+  <updated>2016-02-04T09:23:08-05:00</updated>
+  <id>/mus106/</id>
   <author>
     <name>Brian Moseley</name>
-    <uri>/</uri>
+    <uri>/mus106/</uri>
     <email>moseleybc@gmail.com</email>
   </author>
 
   
   <entry>
     <title>For Friday, February 5</title>
-    <link href="/blog/for-friday-february-5/"/>
+    <link href="/mus106/blog/for-friday-february-5/"/>
     <updated>2016-02-04T08:57:27-05:00</updated>
-    <id>/blog/for-friday-february-5</id>
+    <id>/mus106/blog/for-friday-february-5</id>
     <author>
       <name>Brian Moseley</name>
-      <uri>/</uri>
+      <uri>/mus106/</uri>
       <email>moseleybc@gmail.com</email>
     </author>
     <content type="html">
       
-      &lt;p&gt;We will have the first fundamentals quiz tomorrow, where I’ll ask you to write some progression involving dominant preparation chords moving to dominant chords. Use the assignment that was due Monday as practice. &lt;/p&gt;
+      &lt;p&gt;We will have the first fundamentals quiz tomorrow, where I’ll ask you to write some progression involving dominant preparation chords moving to dominant chords. Use the assignment that was due Monday as practice.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Chapter 9, p. 137, #5: a,b, and c. &lt;/li&gt;
-  &lt;li&gt;Chapter 9, p. 138, #6: a,b, and c.  &lt;/li&gt;
-  &lt;li&gt;Chapter 9, p. 139, #7, a,b, and c. &lt;/li&gt;
+  &lt;li&gt;Chapter 9, p. 137, #5: a,b, and c.&lt;/li&gt;
+  &lt;li&gt;Chapter 9, p. 138, #6: a,b, and c.&lt;/li&gt;
+  &lt;li&gt;Chapter 9, p. 139, #7, a,b, and c.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/igb4f4yotc0tk5n/9%20%28DP%20Harm%29%20WB%20scan.pdf?dl=0&quot;&gt;Here’s a copy&lt;/a&gt; of the Chapter 9 workbook for those of you that don’t have a copy.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/igb4f4yotc0tk5n/9%20%28DP%20Harm%29%20WB%20scan.pdf?dl=0&quot;&gt;Here’s a copy&lt;/a&gt; of the Chapter 9 workbook for those of you that don’t have a copy.&lt;/p&gt;
 
 &lt;p&gt;And &lt;a href=&quot;https://www.dropbox.com/s/8z6otd32pclqqvk/9%2C%20Part-Writing%20Answer%20Key.pdf?dl=0&quot;&gt;here’s an answer key&lt;/a&gt;to check your work against.&lt;/p&gt;
 
@@ -45,21 +47,21 @@
   
   <entry>
     <title>For Wednesday, Feb. 3</title>
-    <link href="/blog/for-wednesday-feb-3/"/>
+    <link href="/mus106/blog/for-wednesday-feb-3/"/>
     <updated>2016-02-02T10:15:25-05:00</updated>
-    <id>/blog/for-wednesday-feb-3</id>
+    <id>/mus106/blog/for-wednesday-feb-3</id>
     <author>
       <name>Brian Moseley</name>
-      <uri>/</uri>
+      <uri>/mus106/</uri>
       <email>moseleybc@gmail.com</email>
     </author>
     <content type="html">
       
       &lt;p&gt;Sorry about missing class yesterday!&lt;/p&gt;
 
-&lt;p&gt;Tomorrow, we’ll have a short practice quiz to see how prepared you are for the first fundamental’s assessment, which will happen on Friday or Monday. On that assessment, you’ll have to write (in chorale or keyboard style) chord progressions that move from various DP chords to D chords. &lt;/p&gt;
+&lt;p&gt;Tomorrow, we’ll have a short practice quiz to see how prepared you are for the first fundamental’s assessment, which will happen on Friday or Monday. On that assessment, you’ll have to write (in chorale or keyboard style) chord progressions that move from various DP chords to D chords.&lt;/p&gt;
 
-&lt;p&gt;To prepare:  &lt;/p&gt;
+&lt;p&gt;To prepare:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -70,7 +72,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Finally, I made a short video (below) that you should watch before tomorrow. It’s an introduction to the keyboard tutorial that you’ll have to attempt next week. &lt;/p&gt;
+&lt;p&gt;Finally, I made a short video (below) that you should watch before tomorrow. It’s an introduction to the keyboard tutorial that you’ll have to attempt next week.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://drive.google.com/file/d/0B0_DrOo8gCUrOUVwMDhrTkMyMHM/preview&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
 
@@ -79,12 +81,12 @@
   
   <entry>
     <title>For Monday, February 1</title>
-    <link href="/blog/for-monday-february-1/"/>
+    <link href="/mus106/blog/for-monday-february-1/"/>
     <updated>2016-01-29T10:42:38-05:00</updated>
-    <id>/blog/for-monday-february-1</id>
+    <id>/mus106/blog/for-monday-february-1</id>
     <author>
       <name>Brian Moseley</name>
-      <uri>/</uri>
+      <uri>/mus106/</uri>
       <email>moseleybc@gmail.com</email>
     </author>
     <content type="html">
@@ -93,7 +95,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;Chapter 9, p. 137, #5: a,b, and c. Use ii and at least one ii7.&lt;/li&gt;
-  &lt;li&gt;Chapter 9, p. 138, #6: a,b, and c. Use IV and at least one IV7. &lt;/li&gt;
+  &lt;li&gt;Chapter 9, p. 138, #6: a,b, and c. Use IV and at least one IV7.&lt;/li&gt;
   &lt;li&gt;Chapter 9, p. 139, #7, a,b, and c. Use vi and at least one vi7.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -108,29 +110,29 @@
   
   <entry>
     <title>Welcome Back!</title>
-    <link href="/blog/welcome-to-mus-105/"/>
+    <link href="/mus106/blog/welcome-to-mus-105/"/>
     <updated>2016-01-24T07:51:26-05:00</updated>
-    <id>/blog/welcome-to-mus-105</id>
+    <id>/mus106/blog/welcome-to-mus-105</id>
     <author>
       <name>Brian Moseley</name>
-      <uri>/</uri>
+      <uri>/mus106/</uri>
       <email>moseleybc@gmail.com</email>
     </author>
     <content type="html">
       
-      &lt;p&gt;Welcome to the second semester of Harmony and Counterpoint! I’m looking forward to working with you all again getting as we learn in more detail how great music works and how we can use that knowledge to shape our own creative activity as musicians.  &lt;/p&gt;
+      &lt;p&gt;Welcome to the second semester of Harmony and Counterpoint! I’m looking forward to working with you all again getting as we learn in more detail how great music works and how we can use that knowledge to shape our own creative activity as musicians.&lt;/p&gt;
 
-&lt;p&gt;This term we will working towards the following goals:  &lt;/p&gt;
+&lt;p&gt;This term we will working towards the following goals:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;the &lt;em&gt;assimilation&lt;/em&gt; of concepts and techniques common to diatonic music. &lt;/li&gt;
+  &lt;li&gt;the &lt;em&gt;assimilation&lt;/em&gt; of concepts and techniques common to diatonic music.&lt;/li&gt;
   &lt;li&gt;the &lt;em&gt;connection&lt;/em&gt; of the concepts to music in myriad styles—including “classical” instrumental and vocal music, and pop/rock music.&lt;/li&gt;
   &lt;li&gt;the ability to &lt;em&gt;construct&lt;/em&gt; and &lt;em&gt;deconstruct&lt;/em&gt; phrases and small pieces.&lt;/li&gt;
   &lt;li&gt;further developing &lt;em&gt;critical listening skills&lt;/em&gt; through dictation and transcription.&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;increased fluency&lt;/em&gt; singing and playing music at the keyboard.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;These goals are about you and your musical and intellectual growth. My goal is to place your work at the center of the class and to learn from you as well. To create an environment where we can try new things and better accomodate the diversity of personalities, I have designed the class so that you have many opportunities to try things without grade penalty. Ultimately, however, its our collective responsibility to make this a great class. I hope that you feel free to come to me with questions and concerns. &lt;/p&gt;
+&lt;p&gt;These goals are about you and your musical and intellectual growth. My goal is to place your work at the center of the class and to learn from you as well. To create an environment where we can try new things and better accomodate the diversity of personalities, I have designed the class so that you have many opportunities to try things without grade penalty. Ultimately, however, its our collective responsibility to make this a great class. I hope that you feel free to come to me with questions and concerns.&lt;/p&gt;
 
 
     </content>

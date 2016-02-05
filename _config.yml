@@ -13,7 +13,6 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: /:categories/:title/
-post_dirs: false
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
