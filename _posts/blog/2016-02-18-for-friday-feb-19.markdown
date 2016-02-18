@@ -18,6 +18,6 @@ As I mentioned in class, two things for tomorrow:
 2. Complete a setting of the melody for string quartet. Here's the melody: 
 
 <figure>
-  <img src="/images/IMG_1866.jpg" alt="">
+  <img src="/mus106/images/IMG_1866.jpg" alt="">
   <figcaption>String Quartet melody.</figcaption>
 </figure>  
