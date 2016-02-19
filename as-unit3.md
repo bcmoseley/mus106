@@ -3,7 +3,7 @@ layout: article
 title: "Aural Skills - Unit 3: Other Diatonic Triads"
 ---
 
-<a href="as-unit1.html" class="btn-info">Unit 1</a><a href="as-unit2.html" class="btn-info">Unit 2</a><a href="as-unit3.html" class="btn-info">Unit 3</a>
+<a href="/mus106/as-unit1" class="btn-info">Unit 1</a><a href="/mus106/as-unit2" class="btn-info">Unit 2</a><a href="/mus106/as-unit3" class="btn-info">Unit 3</a>
 
 **Last Day to Pass Objectives:** May 13
 

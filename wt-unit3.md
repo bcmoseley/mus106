@@ -3,7 +3,7 @@ layout: article
 title: "Written Theory - Unit 3: Accented NCTs, Cadential 64s, Pedal Harmony, Plagal Successions, Applied Chords"
 ---
 
-<a href="wt-unit1.html" class="btn-info">Unit 1</a><a href="wt-unit2.html" class="btn-info">Unit 2</a><a href="wt-unit3.html" class="btn-info">Unit 3</a>
+<a href="/mus106/wt-unit1" class="btn-info">Unit 1</a><a href="/mus106/wt-unit2" class="btn-info">Unit 2</a><a href="/mus106/wt-unit3" class="btn-info">Unit 3</a>
 
 **Last Day to Pass Objectives:** May 13
 
