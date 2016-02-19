@@ -8,10 +8,10 @@ Both written theory and aural skills are divided into three categories, each of 
 There are no exams in this course, either at midterm or final. Rather, students should complete each of these course objectives within two weeks of the relevant unit deadline. 
 
 ###Written Theory
-<a href="/wt-unit1.html" class="btn-info">Unit 1</a><a href="/wt-unit2.html" class="btn-info">Unit 2</a><a href="/wt-unit3.html" class="btn-info">Unit 3</a>
+<a href="/wt-unit1" class="btn-info">Unit 1</a><a href="/wt-unit2" class="btn-info">Unit 2</a><a href="/wt-unit3" class="btn-info">Unit 3</a>
 
 ###Aural Skills
-<a href="/as-unit1.html" class="btn-info">Unit 1</a><a href="/as-unit2.html" class="btn-info">Unit 2</a><a href="/as-unit3.html" class="btn-info">Unit 3</a><a href="/as-unit4.html" class="btn-info">Unit 4</a>
+<a href="/as-unit1" class="btn-info">Unit 1</a><a href="/as-unit2" class="btn-info">Unit 2</a><a href="/as-unit3" class="btn-info">Unit 3</a><a href="/as-unit4" class="btn-info">Unit 4</a>
 
 
 
