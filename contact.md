@@ -3,7 +3,7 @@ layout: article
 title: Contact Information
 ---
 
-You can [write me an email](mailto:brianmos@buffalo.edu), send me a tweet [@bcmoseley](http://www.twitter.com/bcmoseley), or visit me during office hours in Baird 418.
+You can [write me an email](mailto:brianmos@buffalo.edu), send me a tweet [@bcmoseley](http://www.twitter.com/bcmoseley), or visit me during office hours in Baird 418.  
 
 ### Office Hours  
 
