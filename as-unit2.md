@@ -9,7 +9,7 @@ title: "Aural Skills - Unit 2: Harmonic Singing; Two-part, Bass-line, and Harmon
 
 Read all as “I can . . .”
 
-###Singing Skills
+### Singing Skills
 1. Perform a prepared melody highlighting the **dominant seventh chord** while conducting or playing an accompaniment. (2x) 
 2. **Sing a bass line while playing the upper three parts at the piano.**
 3. Perform a compound melody while conducting. (2x)

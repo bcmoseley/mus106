@@ -9,7 +9,7 @@ title: "Aural Skills - Unit 3: Other Diatonic Triads"
 
 Read all as “I can . . .”
 
-###Singing Skills
+### Singing Skills
 1. Perform a prepared melody highlighting the **leading-tone triad** while conducting or playing an accompaniment. (2x)
 2. Perform a prepared melody highlighting the **supertonic and/or submediant triads** while conducting or playing an accompaniment. (2x)
 3. Perform a prepared melody highlighting **non-dominant seventh chords** while conducting or playing an accompaniment. (2x)
