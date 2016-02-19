@@ -17,7 +17,7 @@ Read all as “I can . . .”
 ### Music Analysis
 1. **Create an analytical sketch** of a passage containing functional progressions, any type of dominant function chord, dominant preparation chords, and non-chord tones.
 2. **Complete a multi-level analytical sketch** containing a Functional Linear Progression.
-
+  
 ###Composition
 1. Harmonize a long melody with a Functional Linear Progression.
 2. **Write a sentence for piano** whose basis is a Functional Linear Progression.
