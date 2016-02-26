@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/mus106/blog/for-friday-feb-25/</loc>
+    <lastmod>2016-02-24T14:01:36-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/mus106/blog/for-wednesday-feb-24/</loc>
+    <lastmod>2016-02-22T15:39:56-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/mus106/blog/for-monday-feb-22/</loc>
+    <lastmod>2016-02-19T12:06:52-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>/mus106/blog/for-friday-feb-19/</loc>
     <lastmod>2016-02-18T10:31:46-05:00</lastmod>
     <priority>0.8</priority>
@@ -47,91 +62,91 @@
   </url>
   <url>
     <loc>/mus106/about.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/archive.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/as-unit1.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/as-unit2.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/as-unit3.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/auralskills-unit-guide.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/contact.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/courses.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>/mus106/resources.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/syllabus.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/unit-guide.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/wt-unit1.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/wt-unit2.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/mus106/wt-unit3.html</loc>
-    <lastmod>2016-02-18T10:36:32-05:00</lastmod>
+    <lastmod>2016-02-26T10:23:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

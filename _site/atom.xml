@@ -9,7 +9,7 @@
   <subtitle></subtitle>
   <link href="/mus106/atom.xml" rel="self"/>
   <link href="/mus106/" rel="alternate" type="text/html"/>
-  <updated>2016-02-18T10:36:32-05:00</updated>
+  <updated>2016-02-26T10:23:15-05:00</updated>
   <id>/mus106/</id>
   <author>
     <name>Brian Moseley</name>
@@ -17,6 +17,89 @@
     <email>moseleybc@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <title>For Friday, Feb. 25</title>
+    <link href="/mus106/blog/for-friday-feb-25/"/>
+    <updated>2016-02-24T14:01:36-05:00</updated>
+    <id>/mus106/blog/for-friday-feb-25</id>
+    <author>
+      <name>Brian Moseley</name>
+      <uri>/mus106/</uri>
+      <email>moseleybc@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Two things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;For Friday&lt;/em&gt;: Using the packet of score excerpts I gave you in class, label (with a bracket) every FLP that you can find. Remember that FLPs come in four basic varieties: 
+ (a) prolonging tonic, e.g., T1-DP1-D7-T1; 
+ (b) prolonging the motion from dominant to tonic, e.g., D5-D4-T3;
+ (c) prolonging the motion from tonic to dominant, e.g., T1-D2-D5; 
+ (d) prolonging the motion from dominant prep. to dominant, e.g., DP2-DP1-D7
+ And that each of those varieties can take on a passing, neighboring, incomplete neighboring, and double neighboring shape.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;By the end of next week: Complete &lt;a href=&quot;https://www.dropbox.com/s/vqr9cpmesyfs2au/FLP%20Melody%20Harmonization.pdf?dl=0&quot;&gt;this melody harmonization assignment&lt;/a&gt;. This will count both as the “melody harmonization” objective for this unit &lt;em&gt;and&lt;/em&gt; as the T-DP-D-T fundamental objective. If you haven’t yet passed that quiz, this is your chance. I strongly recommend attempting this and showing it to me or to a TA to get feedback before turning it in.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>For Wednesday, Feb. 24</title>
+    <link href="/mus106/blog/for-wednesday-feb-24/"/>
+    <updated>2016-02-22T15:39:56-05:00</updated>
+    <id>/mus106/blog/for-wednesday-feb-24</id>
+    <author>
+      <name>Brian Moseley</name>
+      <uri>/mus106/</uri>
+      <email>moseleybc@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;A few things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Complete the ‘multi-level sketch’ that we began in class. If you’re having trouble knowing what to do, there is lots of information in &lt;a href=&quot;https://www.dropbox.com/s/oaxjhuw7zf0eym6/chapter_10_text.pdf?dl=0&quot;&gt;Chapter 10 of &lt;em&gt;TMM&lt;/em&gt;&lt;/a&gt;. You can learn a lot just by looking at the sketches in the chapter.&lt;/li&gt;
+  &lt;li&gt;Harmonize this melody. Once you’ve written a bass line, complete the inner voices in &lt;em&gt;chorale style.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/mus106/images/melody_harm.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Melody Harmonization.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>For Monday, Feb. 22</title>
+    <link href="/mus106/blog/for-monday-feb-22/"/>
+    <updated>2016-02-19T12:06:52-05:00</updated>
+    <id>/mus106/blog/for-monday-feb-22</id>
+    <author>
+      <name>Brian Moseley</name>
+      <uri>/mus106/</uri>
+      <email>moseleybc@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Next week is going to be a busy week… We have to finish the FLP chapter, and you’ll be starting dictation assessments as well. In addition to getting ready for tutorials, a few things to work on this weekend:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Complete the melody harmonization assignment I gave you in class.&lt;/li&gt;
+  &lt;li&gt;Beginning memorizing the FLP chart I passed out in class. I’d like you to know all of the common FLPs—that is, the ones with asterisks on the sheet. We’ll be using this knowledge a lot next week.&lt;/li&gt;
+  &lt;li&gt;If you haven’t already, please read pp. 3–10 in Chapter 10 of &lt;a href=&quot;https://www.dropbox.com/s/oaxjhuw7zf0eym6/chapter_10_text.pdf?dl=0&quot;&gt;Smith’s TMM&lt;/a&gt;. This has to do with sketching on &lt;em&gt;multiple levels&lt;/em&gt;, which we’ll start doing next week.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Happy weekend!&lt;/p&gt;
+
+    </content>
+  </entry>
   
   <entry>
     <title>For Friday, Feb. 19</title>
@@ -38,7 +121,7 @@
 &lt;/ol&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/IMG_1866.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;/mus106/images/IMG_1866.jpg&quot; alt=&quot;&quot; /&gt;
   &lt;figcaption&gt;String Quartet melody.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
