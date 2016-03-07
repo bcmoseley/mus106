@@ -2,7 +2,7 @@
 <h4>Tutorials (Feb. 29 and March 1)</h4>
 <p>
 	<ol>
-		<li>Next week is a catch-up week. Any of the tutorial material you have not yet passed you will do in the tutorial. There is no new material. Keep in mind that the <em>last day</em> to pass this material is Thursday, March 4.</li>
+		<li>Tutorials this week involve sight-singing of melodies containing dominant sevenths. You can also attempt the prepared melodies if you'd like: #389 and #397, and #422 (Sing & play)</li>
 	</ol>
 	</p>
 </div>
