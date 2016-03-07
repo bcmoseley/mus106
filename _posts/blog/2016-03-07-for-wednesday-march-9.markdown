@@ -21,7 +21,7 @@ A few things in the meantime:
 
 
 <figure class="half">
-  <img src="/images/NFLs.jpg" alt="">
-  <img src="/images/Sentence.jpg" alt="">
+  <img src="/mus106/images/NFLs.jpg" alt="">
+  <img src="/mus106/images/Sentence.jpg" alt="">
   <figcaption>NFLs and our Sentence.</figcaption>
 </figure>
