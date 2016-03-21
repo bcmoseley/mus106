@@ -2,7 +2,7 @@
 <h4>Tutorials (Feb. 29 and March 1)</h4>
 <p>
 	<ol>
-		<li>Tutorials this week involve sight-singing of melodies containing dominant sevenths. You can also attempt the prepared melodies if you'd like: #389 and #397, and #422 (Sing & play)</li>
+		<li>Tutorials next week will involve playing I–IV-V(7)–I, or I-II6-V(7)-I, progressions in keyboard style in any major or minor key. You'll need to be able to do it with the following scale degree patterns: (1)5-4-4-3; (2)3-2-2-1; (3)and 1-2-7-1.</li>
 	</ol>
 	</p>
 </div>
