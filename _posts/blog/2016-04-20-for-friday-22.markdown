@@ -1,0 +1,15 @@
+---
+layout: post
+title: For Friday, 22
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2016-04-20T16:58:44-04:00
+---
+
+Hi everyone! For Friday, I'd like you to harmonize a melody containing accented non-chord tones. You can find the melody [here](https://www.dropbox.com/s/fr9c4litdut5s18/Accented%20NCT%20harmonization%201.pdf?dl=0). Due Friday.
